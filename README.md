@@ -1,0 +1,1 @@
+An uncomplicated e-commerce website built with HTML, CSS, JavaScript, PHP, and MySQL. This project was crafted as part of a university assignment, illustrating the practical application of web development technologies.
